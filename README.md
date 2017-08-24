@@ -1,2 +1,2 @@
-# rxjava
-rx Java samples 
+# rxjavatraining
+RX Java Training
